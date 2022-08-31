@@ -1,0 +1,23 @@
+{
+  "name": "firstjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primeNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumeyya-Eser/NODEJS-Tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumeyya-Eser/NODEJS-Tasks/issues"
+  },
+  "homepage": "https://github.com/Sumeyya-Eser/NODEJS-Tasks#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^12.0.0"
+  }
+}
